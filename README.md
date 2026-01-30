@@ -1,1 +1,0 @@
-# solar-ev-charging-app
